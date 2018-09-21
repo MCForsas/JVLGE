@@ -140,6 +140,7 @@ public class Game extends Canvas implements Runnable {
 	 * Starts the game
 	 */
 	public static void main(String args[]) {
+
 		new Game();
 	}
 }

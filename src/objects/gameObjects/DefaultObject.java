@@ -1,6 +1,7 @@
 package objects.gameObjects;
 
 import engine.*;
+import graphics.FontSheet;
 import graphics.SpriteSheet;
 import objects.GameObject;
 
@@ -25,7 +26,7 @@ public class DefaultObject extends GameObject {
         }catch (Exception e){
             e.printStackTrace();
         }
-        this.sprite = spriteSheet.grabImage(1,1, this.spriteSize, this.spriteSize);
+        this.sprite = FontSheet.getSymbolImage('k'); //spriteSheet.grabImage(1,1, this.spriteSize, this.spriteSize);
     }
 
     @Override

@@ -4,7 +4,19 @@
     <bookmark url="file://$PROJECT_DIR$/src/engine/ResourceManager.java" line="55" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="072afdcd-7ace-4a94-bab3-c1c33b7fbdba" name="Default Changelist" comment="" />
+    <list default="true" id="072afdcd-7ace-4a94-bab3-c1c33b7fbdba" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/graphics/FontSheet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/lwjgl.dll" beforeDir="false" afterPath="$PROJECT_DIR$/libs/lwjgl.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JVLGE2/engine/Game.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JVLGE2/engine/Game.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JVLGE2/engine/ResourceManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JVLGE2/engine/ResourceManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JVLGE2/graphics/HUD.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JVLGE2/graphics/Window.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JVLGE2/graphics/Window.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JVLGE2/objects/GameObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JVLGE2/objects/GameObject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JVLGE2/objects/gameObjects/DefaultObject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/engine/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/engine/Game.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/objects/gameObjects/DefaultObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/objects/gameObjects/DefaultObject.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,13 +28,15 @@
     <session id="668599789">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="12" />
+          <entry key="project.closed" value="18" />
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.15" value="1" />
           <entry key="project.open.time.17" value="1" />
           <entry key="project.open.time.18" value="1" />
           <entry key="project.open.time.20" value="1" />
-          <entry key="project.open.time.21" value="1" />
+          <entry key="project.open.time.21" value="2" />
           <entry key="project.open.time.22" value="1" />
           <entry key="project.open.time.24" value="3" />
           <entry key="project.open.time.27" value="1" />
@@ -30,25 +44,25 @@
           <entry key="project.open.time.33" value="1" />
           <entry key="project.open.time.39" value="1" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="15" />
+          <entry key="project.opened" value="20" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="8" />
-          <entry key="java" value="4566" />
+          <entry key="java" value="4831" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="4566" />
+          <entry key="JAVA" value="4831" />
           <entry key="PLAIN_TEXT" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="1" />
-          <entry key="java" value="65" />
+          <entry key="java" value="69" />
           <entry key="png" value="2" />
         </counts>
       </usages-collector>
@@ -56,13 +70,44 @@
         <counts>
           <entry key="CLASS" value="1" />
           <entry key="Image" value="2" />
-          <entry key="JAVA" value="65" />
+          <entry key="JAVA" value="69" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/engine/Game.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="235">
+              <caret line="113" column="28" lean-forward="true" selection-start-line="113" selection-start-column="28" selection-end-line="113" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/objects/gameObjects/DefaultObject.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="409">
+              <caret line="28" column="49" selection-start-line="28" selection-start-column="49" selection-end-line="28" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/graphics/FontSheet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="386">
+              <caret line="27" column="49" selection-start-line="27" selection-start-column="49" selection-end-line="27" selection-end-column="49" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -75,6 +120,9 @@
     <findStrings>
       <find>musi</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -98,9 +146,10 @@
         <option value="$PROJECT_DIR$/src/engine/LevelManager.java" />
         <option value="$PROJECT_DIR$/src/engine/Methods.java" />
         <option value="$PROJECT_DIR$/src/engine/MouseManager.java" />
-        <option value="$PROJECT_DIR$/src/engine/Game.java" />
         <option value="$PROJECT_DIR$/src/graphics/SpriteSheet.java" />
         <option value="$PROJECT_DIR$/src/objects/GameObject.java" />
+        <option value="$PROJECT_DIR$/src/engine/Game.java" />
+        <option value="$PROJECT_DIR$/src/graphics/FontSheet.java" />
         <option value="$PROJECT_DIR$/src/objects/gameObjects/DefaultObject.java" />
       </list>
     </option>
@@ -112,10 +161,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="10" />
-    <option name="y" value="50" />
-    <option name="width" value="1260" />
-    <option name="height" value="954" />
+    <option name="x" value="-8" />
+    <option name="y" value="22" />
+    <option name="width" value="1296" />
+    <option name="height" value="1010" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -222,13 +271,14 @@
       </profile-state>
     </entry>
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -236,15 +286,50 @@
               <item name="JVLGE2" type="b2602c69:ProjectViewProjectNode" />
               <item name="JVLGE2" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="JVLGE2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JVLGE2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JVLGE2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JVLGE2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="objects" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JVLGE2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JVLGE2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="objects" type="462c0819:PsiDirectoryNode" />
+              <item name="gameObjects" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JVLGE2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JVLGE2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JVLGE2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JVLGE2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JVLGE2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536347759510" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537120180174" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../eclipseWorkspace/JavaLibs/JLWGD/jars/slick-util.jar!/" />
     <property name="project.structure.last.edited" value="Global Libraries" />
     <property name="project.structure.proportion" value="0.15" />
@@ -323,13 +408,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="22" width="1296" height="1010" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="1" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="UI Designer" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.21682848" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.15453075" />
       <window_info id="Learn" order="6" />
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -412,30 +498,11 @@
     <entry file="file://$PROJECT_DIR$/src/objects/menu/MenuButton.java" />
     <entry file="file://$PROJECT_DIR$/src/objects/Board.java" />
     <entry file="file://$PROJECT_DIR$/src/objects/Promotion.java" />
-    <entry file="file://$PROJECT_DIR$/src/graphics/HUD.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-56">
-          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/graphics/HUD.java" />
     <entry file="file://$PROJECT_DIR$/src/engine/ResourceManager.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-651">
           <caret line="39" column="6" lean-forward="true" selection-start-line="39" selection-start-column="6" selection-end-line="39" selection-end-column="6" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/engine/Game.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -443,9 +510,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="369">
           <caret line="61" column="14" selection-start-line="61" selection-start-column="14" selection-end-line="61" selection-end-column="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -460,9 +524,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -484,9 +545,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
           <caret line="79" column="14" selection-start-line="79" selection-start-column="14" selection-end-line="79" selection-end-column="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -504,23 +562,41 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/objects/gameObjects/DefaultObject.java">
+    <entry file="file://$PROJECT_DIR$/src/objects/GameObject.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-226">
-          <caret line="8" column="4" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+        <state relative-caret-position="284">
+          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/engine/Game.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="113" column="28" lean-forward="true" selection-start-line="113" selection-start-column="28" selection-end-line="113" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.1/lib/src.zip!/java.base/java/util/Formatter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2600">
+          <caret line="2836" selection-start-line="2836" selection-end-line="2836" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/graphics/FontSheet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="386">
+          <caret line="27" column="49" selection-start-line="27" selection-start-column="49" selection-end-line="27" selection-end-column="49" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/objects/GameObject.java">
+    <entry file="file://$PROJECT_DIR$/src/objects/gameObjects/DefaultObject.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="284">
-          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="409">
+          <caret line="28" column="49" selection-start-line="28" selection-start-column="49" selection-end-line="28" selection-end-column="49" />
         </state>
       </provider>
     </entry>
