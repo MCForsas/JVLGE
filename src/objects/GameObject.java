@@ -12,8 +12,8 @@ import java.awt.image.BufferedImage;
  */
 
 public abstract class GameObject {
-	protected int x = 0;
-	protected int y = 0;
+	protected float x = 0f;
+	protected float y = 0f;
 	protected SpriteSheet spriteSheet;
 	protected BufferedImage sprite;
 
@@ -30,26 +30,26 @@ public abstract class GameObject {
 		if(this.sprite != null){
 			g.drawImage(
 				this.sprite,
-					this.x,
-					this.y,
+					(int) this.x,
+					(int) this.y,
 					null
 			);
 		}
 	};
 
-	public int getX() {
+	public float getX() {
 		return this.x;
 	}
 
-	public void setX(int x) {
+	public void setX(float x) {
 		this.x = x;
 	}
 
-	public int getY() {
+	public float getY() {
 		return this.y;
 	}
 
-	public void setY(int y) {
+	public void setY(float y) {
 		this.y = y;
 	}
 }

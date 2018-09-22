@@ -1,7 +1,5 @@
 package graphics;
 
-import org.lwjgl.Sys;
-
 import javax.imageio.ImageIO;
 import java.awt.image.BufferedImage;
 import java.io.FileInputStream;
@@ -33,7 +31,7 @@ public class FontSheet {
 
         BufferedImage symbolImage = fontSheet.getSubimage(symbolCol*symbolWidth, symbolRow*symbolHeight, symbolWidth, symbolHeight);
 
-        System.out.printf("x: %d, y: %d, width: %d, height: %d", symbolCol*symbolWidth, symbolRow*symbolHeight, symbolWidth, symbolHeight);
+        //System.out.printf("x: %d, y: %d, width: %d, height: %d", symbolCol*symbolWidth, symbolRow*symbolHeight, symbolWidth, symbolHeight);
 //        try {
 //            File outputfile = new File("image.png");
 //            ImageIO.write(symbolImage, "png", outputfile);

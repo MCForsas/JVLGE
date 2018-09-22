@@ -1,4 +1,4 @@
-package engine;
+package engine.managers;
 
 import java.awt.Graphics;
 import java.util.LinkedList;

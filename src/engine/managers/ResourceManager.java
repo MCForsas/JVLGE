@@ -1,4 +1,4 @@
-package engine;
+package engine.managers;
 import org.newdawn.slick.Music;
 import org.newdawn.slick.SlickException;
 

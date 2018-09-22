@@ -1,4 +1,4 @@
-package engine;
+package engine.managers;
 
 import java.awt.event.MouseAdapter;
 import java.awt.event.MouseEvent;

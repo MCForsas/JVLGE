@@ -1,4 +1,4 @@
-package engine;
+package engine.managers;
 
 /*
  * List of game levels

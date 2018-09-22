@@ -1,4 +1,4 @@
-package engine;
+package engine.managers;
 
 import java.awt.event.KeyAdapter;
 import java.awt.event.KeyEvent;

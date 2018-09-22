@@ -1,4 +1,4 @@
-package engine;
+package engine.managers;
 
 import java.awt.Graphics;
 
@@ -17,7 +17,7 @@ public class LevelManager {
 	 * Initializes object and start the defauult level
 	 * @param Levels first level
 	 */
-	LevelManager(Levels startLevel) {
+	public LevelManager(Levels startLevel) {
 		handler = new Handler();
 		currentLevel = startLevel;
 		startLevel();

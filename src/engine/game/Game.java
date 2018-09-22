@@ -1,9 +1,10 @@
-package engine;
+package engine.game;
 
 import java.awt.Canvas;
 import java.awt.Color;
 import java.awt.image.BufferStrategy;
 
+import engine.managers.*;
 import graphics.Window;
 
 import java.awt.Graphics;
@@ -15,7 +16,7 @@ import java.awt.Graphics;
 
 public class Game extends Canvas implements Runnable {
 
-	public static final int WINDOW_WIDTH = 720, WINDOW_HEIGHT = WINDOW_WIDTH / 12 * 9;
+	public static final int WINDOW_WIDTH = 1280, WINDOW_HEIGHT = 720;
 
 	private static int fps = 0;
 	private static final long serialVersionUID = -1178041823728909735L;

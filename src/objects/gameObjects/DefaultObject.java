@@ -1,6 +1,10 @@
 package objects.gameObjects;
 
-import engine.*;
+import engine.game.Game;
+import engine.game.Methods;
+import engine.managers.KeyboardManager;
+import engine.managers.MouseManager;
+import engine.managers.ResourceManager;
 import graphics.FontSheet;
 import graphics.SpriteSheet;
 import objects.GameObject;

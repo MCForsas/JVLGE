@@ -1,4 +1,4 @@
-package engine;
+package engine.game;
 
 /*
  * Holds some useful methods
